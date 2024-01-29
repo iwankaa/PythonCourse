@@ -1,1 +1,1 @@
-print(" Antonina Kalchenko, AI-2024")
+print("My first project")
